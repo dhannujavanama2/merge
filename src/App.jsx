@@ -10,8 +10,8 @@ function App() {
     <>
       <nav>
   <ul>
-    <li>Home</li>
-    <li>About</li>
+    <h1>hello</h1>
+    <h2>world</h2>
   </ul>
 </nav>
     </>
